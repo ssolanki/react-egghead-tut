@@ -1,0 +1,19 @@
+{
+  "name": "es6-react-setup",
+  "version": "1.0.0",
+  "description": "ES6 Base react site",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "ssolanki",
+  "licence": "ISC",
+  "dependencies": {
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
+  },
+  "devDependencies": {
+    "eslint": "^3.2.0",
+    "eslint-plugin-react": "^5.2.2"
+  }
+}
