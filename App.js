@@ -8,7 +8,8 @@ class App extends React.Component{
 				{id: 1, name: "sahil solanki"},
 				{id: 2, name: "rahul maurya"},
 				{id: 3, name: "nikhil"},
-				{id: 4, name: "ashish"}
+				{id: 4, name: "ashish"},
+				{id:5, name: "swapnil"}
 			]
 		};
 	}
